@@ -1,0 +1,7 @@
+Trends observable within data provided:
+
+1) While women & non-disclosed make up a smaller percentage of the player base, they respectively spend 6% and 10% more per capita than men. 
+
+2) There is a significant spike in the number of players at age 20. It then drops off precipitously after age 25
+
+3) The popularity of an item does not necessarily contribute to its profitability.
